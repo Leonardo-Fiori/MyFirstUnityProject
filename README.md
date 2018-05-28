@@ -7,3 +7,4 @@ At a given score a boss spawns in, animated and scripted in different states usi
 ---
 
 You can find the final build here, it's pretty ugly:
+- [Latest.zip](https://github.com/Leonardo-Fiori/MyFirstUnityProject/raw/master/Latest.zip)
